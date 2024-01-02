@@ -8,7 +8,7 @@ This tool is built using a combination of HTML, JavaScript, CSS, Bootstrap, and 
 
 
 You can access the JavaScript Calculator through this link:
-https://vijay-markdown-previewer.netlify.app/
+https://vijay-javascript-calculator.netlify.app/
 <br />
 
 <h2>Languages and Utilities Used</h2>
